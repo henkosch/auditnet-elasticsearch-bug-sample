@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace auditnet_elasticsearch_bug_sample
+namespace Sample
 {
     public class Program
     {
